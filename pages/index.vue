@@ -18,7 +18,8 @@
       >
         <v-layout row wrap>
           <v-flex xs12>
-            <v-card color="blue-grey darken-2" class="white--text">
+            <v-card
+            to="company"  color="blue-grey darken-2" class="white--text">
               <v-card-title primary-title>
                 <div>
                   <div class="headline">Unlimited music now</div>
